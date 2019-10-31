@@ -29,7 +29,7 @@
 11. [**FireQuery**](https://addons.mozilla.org/en-us/firefox/addon/firequery/) - Firebug plugin for jQuery development
 12. [**Hide Caption Titlebar Plus**](https://addons.mozilla.org/en-US/firefox/addon/hide-caption-titlebar-plus-sma/) - Hide titlebar in firefox. Maximize your screen space by adjusting Firefox window TitleBar, borders, Tabs, Toolbars, etc!
 
-## Chrome
+## Chrome :
 1. [**Folder upload option**](http://lifehacker.com/5952508/upload-folders-to-google-drive-faster-by-drag-and-dropping-them-into-chrome) - Upload complete forlders by dragging and droping into chrome, not available in firefox
 2. [**Prophet**](https://chrome.google.com/webstore/detail/prophet/alikckkmddkoooodkchoheabgakpopmg?hl=en) - extension to find email ids of people from LinkedIn
 3. [**Postman**](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Make different types of request on URL which are not possible through browser like delete, put, post etc. Must have when you are building an API
@@ -39,11 +39,11 @@
 7. [**Momentum**](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - Another beautiful dashboard featuring todo, weather, and inspiration
 8. [**Hola Free VPN**](https://chrome.google.com/webstore/detail/unlimited-free-vpn-hola/gkojfkhlekighikafcpjkiklfbnlmeio?hl=en) - Access blocked website, youtube videos.
 
-### Common to Both Browsers
+### Common to Both Browsers :
 1. **Incognito mode** - Private browsing `Ctrl + Shift + N`(Chrome), `Ctrl + Shift + P`(Firefox)
 2. **Push Bullet** ([*Chrome*](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)) ([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/pushbullet/)) ([*Android*](https://play.google.com/store/apps/details?id=com.pushbullet.android&hl=en))- Sync media, messages across multiple devices.
 
-## Websites
+## Websites :
 1. [**xPau.se**](http://xpau.se/movies/), [**khatrimaza**](http://khatrimaza.org/), [**Couchtuner**](http://www.couchtuner.ag/), [**Shush**](https://www.shush.se/), [**KissAnime**](https://kissanime.to/), [**123Movies**](https://123movies.io/), [**PutarFilm**](http://putarfilm.com/)- Get all the tv series and movies in HD.
 2. [**StackOverflow**](http://stackoverflow.com/), [**StackExchange**](http://stackexchange.com/) - Best QA sites
 3. [**GeeksforGeeks**](http://www.geeksforgeeks.org/) - Learn algorithms and data structures
@@ -88,7 +88,7 @@
 42. [**Youtube Multi Downloader**](https://youtubemultidownloader.com) - Download a complete playlist on youtube.
 42. [**Hotstar for Free**](http://kattappa.me/newlive?url=LINK_OF_HOTSTAR_VIDEO)- You can watch live match or anything else without having premium account on HotStar
 
-## Single Page Web Application
+## Single Page Web Application :
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
 2. [*VolaFile*](https://volafile.io/) (Live File Sharing and chat)
 3. [*http://www.koding.com/*](http://www.koding.com/)
@@ -102,7 +102,7 @@
     4. For more information visit : (http://rainymood.com/howto.html)
     5.  [*Codeshare*](https://codeshare.io/) - Share live code editor without registration
 
-## Linux Software and Utilities
+## Linux Software and Utilities :
 1. **Guake** - Drop down terminal
 2. **Pidgin** - Chat client
 3. **Proxychains** - work behind proxy easily4. **Polipo** - tunnel to http proxy
@@ -142,7 +142,7 @@
 40. **Easy Stroke Gesture recorder** -  control your desktop using mouse gestures
 41. [__fzf__](https://github.com/junegunn/fzf) - a genral purpose command line fuzzy finder, install it nd press `Ctrl + R` or `Ctrl + T` or `ALT + C` in terminal to see the magic.
 
-## Windows softwares and Utilities
+## Windows softwares and Utilities :
 1. **Putty** - ssh tunnelling in windows.
 2. **Rainmeter** - cool themes for windows
 3. **Cygwin** - Linux like environment for windows
@@ -166,13 +166,13 @@
 21. [**Everything**](https://www.voidtools.com/) - Super fast Desktop search engine
 22. [**Team Viewer**](https://www.teamviewer.com/) - Desktop sharing application
 
-## IOS
+## IOS :
 1. **Get wifi working in iphones** - Add gdr.local to the search domain of the network connected after adding the proxy.
 2. **Alienblue** - reddit app
 3. **iMusic** - Automatically saves youtube video once played.
 4. **Fing** - Scan services n all the devices that are connected to the same network as your phone(iPhone).
 
-## Android applications
+## Android applications :
 1. **OpenVPN Connect** - connect to VPN from your phone
 2. **CamScanner** - Take photos of documents and save them as pdfs
 3. **Wunderlist, Any.do** - Managing todo lists.
